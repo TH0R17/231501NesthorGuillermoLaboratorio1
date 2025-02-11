@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\Debug\Laboratorio1_Nesthor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laboratorio1_Nesthor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laboratorio1_Nesthor.map</FILE>
+  <FILE>Laboratorio1_Nesthor.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>20</LINE></main>
+  <Inicio><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>44</LINE></Inicio>
+  <DELAY><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>139</LINE></DELAY>
+  <AU1><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>68</LINE></AU1>
+  <DE1><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>80</LINE></DE1>
+  <AU2><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>95</LINE></AU2>
+  <DE2><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>107</LINE></DE2>
+  <SUM><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>120</LINE></SUM>
+  <REI1><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>75</LINE></REI1>
+  <REI2><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>87</LINE></REI2>
+  <REI3><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>102</LINE></REI3>
+  <REI4><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>114</LINE></REI4>
+  <LOOP_DELAY><FILE>C:\Users\Usuario\Documents\JOSUÉ\UVG\3er Año\Nueva carpeta\GitHub_Micros\Laboratorio1Nesthor\Laboratorio1NesthorGuillermo2025\Laboratorio1_Nesthor\Laboratorio1_Nesthor\main.asm</FILE><LINE>141</LINE></LOOP_DELAY>
+ </LABELS>
+</ASSEMBLER_INFO>
